@@ -1,6 +1,6 @@
 # BEST HAIR TRANSPLANT CLINICS IN THE WORLD - Top 10 - 2024
 This Repository has been initialized for listing best hair transplant clinics in the world, based on the legitimate user review and results.
-## Introduction {#introduction}
+## Introduction
 Turkey has become a global hub for hair transplant procedures due to its combination of high-quality services and affordable pricing. In this article, we explore the top 20 clinics that stand out in this competitive industry.
 
 ## Table of Contents
